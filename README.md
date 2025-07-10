@@ -1,10 +1,12 @@
 # Projects-Flutter
 Learn and implement projects on Flutter
 
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://github.com/ahmed-abdelgany)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/ahmed-abdelgany)
 
 <h1 align="center">Hi 👋, I'm Ahmed Mostafa</h1>
 <h3 align="center">Flutter Developer and student at CS & IT</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ahmed-abdelgany&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-abdelgany" />
@@ -70,4 +72,3 @@ I'm currently preparing my CV. It will be added here soon. Stay tuned! 📝
 ---
 
 <!-- Profile README for Ahmed Mostafa | Flutter Developer | Dart | CS Student -->
-
