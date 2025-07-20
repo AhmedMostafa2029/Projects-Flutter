@@ -31,14 +31,14 @@ class StartPage extends StatelessWidget {
               );
             },
             child: Container(
-              // decoration: BoxDecoration(
-              //   borderRadius: BorderRadius.circular(20),
-              // ),
+              decoration: BoxDecoration(
+                color: Color(0xffFFAD88),
+                borderRadius: BorderRadius.circular(42),
+              ),
               padding: EdgeInsetsGeometry.only(left: 20, right: 20),
               alignment: Alignment.center,
               height: 90,
               width: double.infinity,
-              color: Color(0xffFFAD88),
               child: Text(
                 'Start Learning',
                 style: TextStyle(color: Colors.white, fontSize: 30),

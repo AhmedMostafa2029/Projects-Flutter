@@ -65,7 +65,7 @@ class PhrasesPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xffFEF6DB),
+      backgroundColor: Color(0xffFFF6DC),
       appBar: AppBar(
         title: Text(
           'Phrases',
