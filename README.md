@@ -15,3 +15,6 @@ This repository contains a collection of basic Flutter projects I built while le
 
 - **tunes_app**  
   A music-themed project, like a xylophone. Each color button plays a different sound.
+
+- **news_app**
+  A generl news app that fetches data using NewsAPI and displays it in a list view.
