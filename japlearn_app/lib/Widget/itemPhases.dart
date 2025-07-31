@@ -16,7 +16,7 @@ class ItemPhases extends StatelessWidget {
           color: color,
           borderRadius: BorderRadius.circular(22),
         ),
-        height: 100,
+        height: 120,
         child: Row(
           children: [
             Padding(

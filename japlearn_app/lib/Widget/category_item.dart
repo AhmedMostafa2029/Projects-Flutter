@@ -23,7 +23,7 @@ class Category extends StatelessWidget {
           width: 340,
           child: Text(
             '$text',
-            style: TextStyle(color: Colors.white, fontSize: 30),
+            style: TextStyle(color: Colors.black, fontSize: 30),
           ),
         ),
       ),

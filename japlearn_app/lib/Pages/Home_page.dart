@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xffFEF6DB),
+      backgroundColor: Color.fromARGB(255, 255, 232, 157),
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 0, 0, 0),
         leading: Padding(
@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            color: Color(0xffEF9235),
+            color: Color.fromARGB(255, 255, 239, 186),
             text: 'Numbers',
           ),
           Category(
@@ -56,7 +56,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            color: Color(0xff4CAF50),
+            color: Color.fromARGB(255, 255, 239, 186),
             text: 'Family Members',
           ),
           Category(
@@ -70,7 +70,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            color: Color(0xff66015A),
+            color: Color.fromARGB(255, 255, 239, 186),
             text: 'Colors',
           ),
           Category(
@@ -85,7 +85,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            color: Color(0xff025F9D),
+            color: Color.fromARGB(255, 255, 239, 186),
             text: 'Phrases',
           ),
         ],
